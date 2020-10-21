@@ -1,0 +1,31 @@
+
+body {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-color: darkslategray;
+    color: white;
+    flex-direction: column;
+    padding-top:10rem;
+    flex-basis:100%;
+}
+
+.row {
+    display:flex;
+    flex-direction:row;
+    align-items: center;
+    justify-items: center;
+    border:2px white;
+}
+.column {
+    display:flex;
+    flex-direction:column;
+    max-width:20rem;
+    align-self: flex-start;
+}
+.white-icon {
+    color: white;
+}
+.a {
+    color: white;
+}
