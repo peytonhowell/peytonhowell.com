@@ -4,7 +4,8 @@
     width: 2rem;
   }
   .picture {
-    width: 1rem;
+    height: auto;
+    width: 11rem;
   }
   .vertical-center {
     min-height: 100%; 
