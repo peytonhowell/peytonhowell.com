@@ -4,8 +4,10 @@
     width: 2rem;
   }
   .picture {
-    width: 10rem;
-    min-width:5rem;
+    display: block;
+    max-width: 10rem;
+    max-height: 13rem;
+    width: auto;
     height: auto;
   }
   .vertical-center {
