@@ -1,0 +1,16 @@
+.logo {
+    height: auto;
+    max-width: 3rem;
+    width: 2rem;
+  }
+  .picture {
+    width: 1rem;
+  }
+  .vertical-center {
+    min-height: 100%; 
+    min-height: 100vh;
+  
+    display: flex;
+    align-items: center;
+  
+  }
