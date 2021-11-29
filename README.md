@@ -1,2 +1,2 @@
 # peytonhowell.com
-Personal website @ www.peytonhowell.com
+Personal website @ peytonhowell.com
